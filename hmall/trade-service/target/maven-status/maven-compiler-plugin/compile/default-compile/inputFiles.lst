@@ -1,0 +1,16 @@
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\trade-service\src\main\java\com\hmall\trade\domain\po\OrderDetail.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\trade-service\src\main\java\com\hmall\trade\domain\vo\OrderVO.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\trade-service\src\main\java\com\hmall\trade\mapper\OrderLogisticsMapper.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\trade-service\src\main\java\com\hmall\trade\controller\OrderController.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\trade-service\src\main\java\com\hmall\trade\mapper\OrderDetailMapper.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\trade-service\src\main\java\com\hmall\trade\service\impl\OrderServiceImpl.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\trade-service\src\main\java\com\hmall\trade\service\IOrderDetailService.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\trade-service\src\main\java\com\hmall\trade\domain\po\OrderLogistics.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\trade-service\src\main\java\com\hmall\trade\domain\po\Order.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\trade-service\src\main\java\com\hmall\trade\mapper\OrderMapper.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\trade-service\src\main\java\com\hmall\trade\service\impl\OrderDetailServiceImpl.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\trade-service\src\main\java\com\hmall\trade\service\impl\OrderLogisticsServiceImpl.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\trade-service\src\main\java\com\hmall\trade\domain\dto\OrderFormDTO.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\trade-service\src\main\java\com\hmall\trade\service\IOrderLogisticsService.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\trade-service\src\main\java\com\hmall\trade\service\IOrderService.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\trade-service\src\main\java\com\hmall\trade\TradeApplication.java

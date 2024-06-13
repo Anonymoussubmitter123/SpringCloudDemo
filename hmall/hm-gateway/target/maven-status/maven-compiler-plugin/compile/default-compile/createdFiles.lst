@@ -1,0 +1,9 @@
+com\hmall\getway\routers\DynamicRouteLoader$1.class
+com\hmall\getway\filters\AuthGlobalFilter.class
+com\hmall\getway\config\AuthProperties.class
+com\hmall\getway\config\JwtProperties.class
+com\hmall\getway\routers\DynamicRouteLoader.class
+com\hmall\getway\utils\JwtTool.class
+com\hmall\getway\config\SecurityConfig.class
+com\hmall\getway\filters\MyGlobalFilter.class
+com\hmall\getway\GatewayApplication.class

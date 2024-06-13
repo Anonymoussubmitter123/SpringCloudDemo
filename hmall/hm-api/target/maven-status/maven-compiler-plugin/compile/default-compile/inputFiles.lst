@@ -1,0 +1,8 @@
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\hm-api\src\main\java\com\hmall\api\client\ICartClient.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\hm-api\src\main\java\com\hmall\api\client\IUserClient.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\hm-api\src\main\java\com\hmall\api\config\DefaultFeignConfig.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\hm-api\src\main\java\com\hmall\api\fallback\ItemClientFallback.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\hm-api\src\main\java\com\hmall\api\client\ITradeClient.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\hm-api\src\main\java\com\hmall\api\dto\ItemDTO.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\hm-api\src\main\java\com\hmall\api\client\IItemClient.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\hm-api\src\main\java\com\hmall\api\dto\OrderDetailDTO.java

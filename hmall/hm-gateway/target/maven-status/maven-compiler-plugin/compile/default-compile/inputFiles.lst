@@ -1,0 +1,8 @@
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\hm-gateway\src\main\java\com\hmall\getway\config\SecurityConfig.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\hm-gateway\src\main\java\com\hmall\getway\config\JwtProperties.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\hm-gateway\src\main\java\com\hmall\getway\filters\MyGlobalFilter.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\hm-gateway\src\main\java\com\hmall\getway\routers\DynamicRouteLoader.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\hm-gateway\src\main\java\com\hmall\getway\filters\AuthGlobalFilter.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\hm-gateway\src\main\java\com\hmall\getway\utils\JwtTool.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\hm-gateway\src\main\java\com\hmall\getway\config\AuthProperties.java
+D:\Users\MechRev\Desktop\wlq\SpringCloud\hmall\hm-gateway\src\main\java\com\hmall\getway\GatewayApplication.java

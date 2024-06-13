@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.itheima.publisher.SpringAMQPTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.112 s - in com.itheima.publisher.SpringAMQPTest
